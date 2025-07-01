@@ -42,7 +42,7 @@ Showcase criativo que denota experiência visual e domínio das ferramentas no F
 ```
 css-coffee-cup/
 ├── index.html
-└── preview.png
+└── preview.gif
 ```
 
 ---
