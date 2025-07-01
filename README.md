@@ -9,7 +9,7 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://github.com/letrista/css-coffee-cup/preview.png" alt="Preview do Projeto" width="700"/>
+  <img src="https://github.com/letrista/css-coffee-cup/preview.gif" alt="Preview do Projeto" width="700"/>
 </p>
 
 ---
